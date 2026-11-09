@@ -34,6 +34,8 @@ products:
     promo_video: https://www.youtube.com/watch?v=ZgUqm-Fycts   # he; en -A35y5mquX8, ru XKOjjV1weks (unlisted)
     price: "ILS 12.90/month or ILS 79/year (USD 3.99 / 24.99), 30-day free trial"
     status: "Live in Google Play since 2026-11-08"
+    social:
+      instagram: https://www.instagram.com/easypen.app/   # Hebrew-first (some Russian); business account, created 2026-11-09
 
 brand:
   name: Vplus Studio
