@@ -26,9 +26,14 @@ products:
     type: android-app
     package: app.vplusstudio.easypen
     play_url: https://play.google.com/store/apps/details?id=app.vplusstudio.easypen
+    site: https://easypen.vplusstudio.app
     repo: ronmailx-boop/easypen
-    markets: [TODO]
-    languages: [TODO]
+    markets: [IL]               # first Israel (Hebrew, then Russian speakers); global English later
+    languages: [he, ru, en]
+    audience: "Israelis who sign forms on their phone: renters, parents, employees (Form 101), freelancers"
+    promo_video: https://www.youtube.com/watch?v=ZgUqm-Fycts   # he; en -A35y5mquX8, ru XKOjjV1weks (unlisted)
+    price: "ILS 12.90/month or ILS 79/year (USD 3.99 / 24.99), 30-day free trial"
+    status: "Live in Google Play since 2026-11-08"
 
 brand:
   name: Vplus Studio
