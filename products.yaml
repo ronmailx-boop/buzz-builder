@@ -1,0 +1,36 @@
+# כל המוצרים ש-Buzz Builder משווק. לעדכן כשמוסיפים אפליקציה או אתר.
+# שדות שמסומנים TODO: הסוכן שואל את Ron או בודק בריפו של המוצר.
+products:
+  zonmoment:
+    name: "Zonmoment: zonnestroom planner"
+    type: android-app
+    package: app.vplusstudio.zonmoment
+    play_url: https://play.google.com/store/apps/details?id=app.vplusstudio.zonmoment
+    site: https://zonmoment.vplusstudio.app
+    repo: ronmailx-boop/zonmoment
+    markets: [NL]
+    languages: [nl]
+    audience: "Dutch households with solar panels, before the end of salderingsregeling on 1.1.2027"
+    promo_video: https://www.youtube.com/watch?v=BqSYXXfmWHU
+    status: "Internal testing, production launch pending"
+  agefox:
+    name: "AgeFox: Family Age Calculator"
+    type: android-app
+    package: app.vplusstudio.agenow
+    play_url: https://play.google.com/store/apps/details?id=app.vplusstudio.agenow
+    repo: ronmailx-boop/ben-kama-ani-hayom
+    markets: [TODO]
+    languages: [TODO]
+  easypen:
+    name: "EasyPen: Sign PDF & Photos"
+    type: android-app
+    package: app.vplusstudio.easypen
+    play_url: https://play.google.com/store/apps/details?id=app.vplusstudio.easypen
+    repo: ronmailx-boop/easypen
+    markets: [TODO]
+    languages: [TODO]
+
+brand:
+  name: Vplus Studio
+  site: https://vplusstudio.app
+  youtube: https://www.youtube.com/@vplusstudioapp
