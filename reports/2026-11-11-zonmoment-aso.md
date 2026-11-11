@@ -1,6 +1,6 @@
 # ASO-review Zonmoment (nl-NL), 11.11.2026
 
-**סטטוס:** הצעה בלבד. שום דבר לא שונה ב-Play. משנים רק אחרי ש-Ron מאשר בצ'אט.
+**סטטוס (11.11.2026):** אושר ע"י Ron והועלה ל-Play: כותרת A, תיאור קצר **בלי תאריך** (`Was, droog en laad op eigen zonnestroom. Geen batterij of koppeling nodig.`, לבקשת Ron), תיאור מלא כמו בסעיף 5. ממתין לבדיקה של Google. צילומי מסך: לא שונו. **ינואר 2027:** לשנות את פתיחת התיאור המלא ל-"Sinds het einde van de salderingsregeling…".
 
 ## 1. מצב נוכחי (נקרא דרך Play API, קריאה בלבד, 11.11.2026)
 - Production: ‏0.2.6 (versionCode 11), הולנד בלבד, חינם.
