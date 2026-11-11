@@ -1,0 +1,30 @@
+Vanaf 1 januari 2027 stopt de salderingsregeling. Stroom die je zonnepanelen terugleveren aan het net levert dan veel minder op, en bij veel energieleveranciers betaal je terugleverkosten. Het loont dus om je eigen verbruik te verhogen: stroom gebruiken op het moment dat de zon schijnt.
+
+Zonmoment vertelt je precies wanneer.
+
+☀️ ELKE OCHTEND JE BESTE MOMENTEN
+Zonmoment combineert de zonnevoorspelling voor jouw postcode met jouw dak en panelen. Je ziet voor vandaag en morgen wanneer je het beste de wasmachine, vaatwasser, droger of elektrische auto (laadpaal) aanzet, en hoeveel daarvan op je eigen zonnestroom draait.
+
+🌦️ MET DE WEERSVERWACHTING VAN HET KNMI
+Zonmoment gebruikt het weermodel van het KNMI en rekent de zonnestraling om naar de richting van jouw dak (uitgaande van een gangbare dakhelling van 35°). Je ziet de verwachte opwek per uur. Ook voor oost-west-daken.
+
+🔔 OCHTENDMELDING
+Krijg elke ochtend een korte melding met het beste moment van de dag. Kies zelf het tijdstip (06:30, 07:30 of 08:30) of zet de melding uit.
+
+🔌 GEEN THUISBATTERIJ OF KOPPELING NODIG
+Je hoeft niets te installeren of te koppelen: geen omvormer, geen slimme meter, geen slimme stekker en geen thuisbatterij. Werkt met elke wasmachine en elke energieleverancier.
+
+🏠 IN EEN MINUUT INGESTELD
+• Je postcode
+• Aantal panelen en vermogen per paneel
+• Richting van je dak (zuid, oost-west, oost, west …)
+• Welke apparaten je wilt plannen
+
+🔒 PRIVACY VOOROP
+Gratis. Geen account, geen advertenties, geen tracking. Je gegevens blijven op je telefoon. Zonmoment gebruikt alleen openbare bronnen: PDOK (Nederlandse overheid) voor je postcode en het KNMI voor de weersverwachting. Je locatie wordt niet naar ons gestuurd.
+
+Zonmoment is gemaakt voor huishoudens in Nederland met zonnepanelen die zich willen voorbereiden op het einde van de salderingsregeling en zelf meer zonnestroom willen gebruiken.
+
+Let op: Zonmoment geeft een verwachting, geen meting. Schaduw van bomen of schoorstenen wordt niet meegerekend.
+
+Vragen of ideeën? Mail naar vplusstudio.app@gmail.com.
