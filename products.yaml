@@ -12,7 +12,7 @@ products:
     languages: [nl]
     audience: "Dutch households with solar panels, before the end of salderingsregeling on 1.1.2027"
     promo_video: https://www.youtube.com/watch?v=BqSYXXfmWHU
-    status: "Internal testing, production launch pending"
+    status: "Production since 9.11.2026 (NL, free); listing ASO update 11.11.2026"
   agefox:
     name: "AgeFox: Family Age Calculator"
     type: android-app
