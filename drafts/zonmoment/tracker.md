@@ -5,11 +5,11 @@ Ron מעדכן בטלפון (GitHub > עריכה). רק שם האתר/הארגו
 
 | ערוץ | יעד | תאריך | סטטוס | קישור לפרסום / הערה |
 |---|---|---|---|---|
-| טיפים | ID.nl (redactie@id.nl) | 12.11.2026 | 📤 | נשלח מ-Gmail; עוד 4 טיוטות מוכנות ב-Gmail |
+| טיפים | ID.nl (redactie@id.nl) | 12.11.2026 | ❌ | המייל חזר (550, הכתובת נדחתה). לנסות טלפון/טופס |
 | טיפים | Energievergelijk | | ⬜ | |
 | טיפים | ANWB | | ⬜ | |
 | טיפים | Solar Magazine | | ⬜ | |
-| Energieloket | Duurzaam Bouwloket | 12.11.2026 | 📤 | info@duurzaambouwloket.nl |
+| Energieloket | Duurzaam Bouwloket | 12.11.2026 | 📤 | אישור קבלה אוטומטי, פנייה #181076 |
 | Energieloket | 2. | | ⬜ | |
 | Energieloket | 3. | | ⬜ | |
 | Energieloket | 4. | | ⬜ | |
