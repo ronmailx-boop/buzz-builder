@@ -5,7 +5,7 @@
 | נמען | סוג | מקור הכתובת | מזהה טיוטה | סטטוס |
 |---|---|---|---|---|
 | redactie@id.nl | אתר טיפים | [id.nl/ai-info.html](https://id.nl/ai-info.html) | — | **חזר (bounce) 12.11.2026**: ‏550 5.4.1 Recipient address rejected, למרות שהכתובת מפורסמת באתר. **הוחלט לוותר על ID.nl (12.11)** |
-| redactie@solarmagazine.nl | אתר טיפים | [solarmagazine.nl](https://solarmagazine.nl/nieuws-zonne-energie/i22297/solar-magazine-introduceert-productzoeker-en-verbindt-vraag-en-aanbod) | r384202565190480273 | טיוטה |
+| redactie@solarmagazine.nl | אתר טיפים | [solarmagazine.nl](https://solarmagazine.nl/nieuws-zonne-energie/i22297/solar-magazine-introduceert-productzoeker-en-verbindt-vraag-en-aanbod) | — | נשלח 12.11.2026 |
 | info@energievergelijk.nl | אתר טיפים (כתובת כללית) | [energievergelijk.nl/contact](https://www.energievergelijk.nl/contact) | r9164012324856744415 | טיוטה |
 | redactie@androidplanet.nl | אתר אנדרואיד | [androidplanet.nl/over-ons/contact](https://www.androidplanet.nl/over-ons/contact/) | r-7216408345607150187 | טיוטה (סוף נובמבר) |
 | redactie@androidworld.nl | אתר אנדרואיד | [androidworld.nl/over-ons/contact](https://androidworld.nl/over-ons/contact/) | r-330732311677659277 | טיוטה (סוף נובמבר) |

@@ -8,7 +8,7 @@ Ron מעדכן בטלפון (GitHub > עריכה). רק שם האתר/הארגו
 | טיפים | ID.nl (redactie@id.nl) | 12.11.2026 | ❌ | המייל חזר (550, הכתובת נדחתה). הוחלט לוותר |
 | טיפים | Energievergelijk | | ⬜ | |
 | טיפים | ANWB | | ⬜ | |
-| טיפים | Solar Magazine | | ⬜ | |
+| טיפים | Solar Magazine | 12.11.2026 | 📤 | redactie@solarmagazine.nl |
 | Energieloket | Duurzaam Bouwloket | 12.11.2026 | 📤 | אישור קבלה אוטומטי, פנייה #181076 |
 | Energieloket | 2. | | ⬜ | |
 | Energieloket | 3. | | ⬜ | |
