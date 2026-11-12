@@ -9,7 +9,7 @@
 | info@energievergelijk.nl | אתר טיפים (כתובת כללית) | [energievergelijk.nl/contact](https://www.energievergelijk.nl/contact) | r9164012324856744415 | טיוטה |
 | redactie@androidplanet.nl | אתר אנדרואיד | [androidplanet.nl/over-ons/contact](https://www.androidplanet.nl/over-ons/contact/) | r-7216408345607150187 | טיוטה (סוף נובמבר) |
 | redactie@androidworld.nl | אתר אנדרואיד | [androidworld.nl/over-ons/contact](https://androidworld.nl/over-ons/contact/) | r-330732311677659277 | טיוטה (סוף נובמבר) |
-| info@duurzaambouwloket.nl | energieloket (כמה עיריות) | דוחות של Duurzaam Bouwloket עצמו | r-7206787326941098348 | טיוטה |
+| info@duurzaambouwloket.nl | energieloket (כמה עיריות) | דוחות של Duurzaam Bouwloket עצמו | — | נשלח 12.11.2026 |
 | vragen@regionaalenergieloket.nl | energieloket (פלטפורמה ארצית) | [en.voorschoten.nl](https://en.voorschoten.nl/duurzaam-bouwloket) | r1230954208714347156 | טיוטה |
 | contact@energiesamen.nu | קואופרטיבים (ארגון גג, 700+ קואופרטיבים) | מגזין 2020 — **ייתכן שהכתובת ישנה** | r-2337717538074213348 | טיוטה |
 

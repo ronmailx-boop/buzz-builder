@@ -9,7 +9,7 @@ Ron מעדכן בטלפון (GitHub > עריכה). רק שם האתר/הארגו
 | טיפים | Energievergelijk | | ⬜ | |
 | טיפים | ANWB | | ⬜ | |
 | טיפים | Solar Magazine | | ⬜ | |
-| Energieloket | 1. | | ⬜ | |
+| Energieloket | Duurzaam Bouwloket | 12.11.2026 | 📤 | info@duurzaambouwloket.nl |
 | Energieloket | 2. | | ⬜ | |
 | Energieloket | 3. | | ⬜ | |
 | Energieloket | 4. | | ⬜ | |
